@@ -1,0 +1,5 @@
+
+git remote add origin https://github.com/carlosmoraossa/grupo24-test.git
+git remote add origin https://github.com/carlosmoraossa/grupo24-test.git
+error: remote origin already exists.
+error: remote origin already exists.
